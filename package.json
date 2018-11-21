@@ -22,5 +22,18 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham2809/devconnectorcy.git"
+  },
+  "keywords": [
+    "fullstack",
+    "node",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/shubham2809/devconnectorcy/issues"
+  },
+  "homepage": "https://github.com/shubham2809/devconnectorcy#readme"
 }
